@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 ![Status](https://github-readme-stats.vercel.app/api?username=SafarovInomjon&show_icons=true&theme=radical)
 <br>
 ![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=SafarovInomjon&hide_progress=true)
-
+<br>
+![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=SafarovInomjon&layout=compact)
 <br>
 <br>

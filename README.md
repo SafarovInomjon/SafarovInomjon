@@ -8,3 +8,8 @@ Here are some ideas to get you started:
    📫 How to contact me my telegram page ananimus_00
 <br>
 ![Status](https://github-readme-stats.vercel.app/api?username=SafarovInomjon&show_icons=true&theme=radical)
+<br>
+![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=SafarovInomjon&hide_progress=true)
+
+<br>
+<br>

@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-
-**SafarovInomjon/SafarovInomjon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 🔭 I am currently working on C# programming language
@@ -10,4 +6,5 @@ Here are some ideas to get you started:
    👯 I want to cooperate with Google
    💬 Ask me what you don't know
    📫 How to contact me my telegram page ananimus_00
-
+<br>
+![Status](https://github-readme-stats.vercel.app/api?username=SafarovInomjon&show_icons=true&theme=radical)

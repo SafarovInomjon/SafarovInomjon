@@ -8,11 +8,11 @@ Here are some ideas to get you started:
    📫 How to contact me my telegram page ananimus_00
    <br>
 <br>
-![Status](https://github-readme-stats.vercel.app/api?username=SafarovInomjon&show_icons=true&theme=radical)
+![Status](https://github-readme-stats.vercel.app/api?username=SafarovInomjon&show_icons=true&theme=radical) <br>  ![Status](https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif) 
 <br>
 ![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=SafarovInomjon&hide_progress=true)
 <br>
-![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=SafarovInomjon&layout=compact)  ![Status](https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif) 
+![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=SafarovInomjon&layout=compact) 
 <br>
 <br>
 

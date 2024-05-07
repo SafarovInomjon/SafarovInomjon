@@ -9,11 +9,11 @@ Here are some ideas to get you started:
 
 ✨ Favorites
 Debian/Ubuntu macOS Windows Amazon AWS Serverless Auth0 GraphQL Docker GitHub Actions Ansible Chocolatey Homebrew Vagrant Electron Expo Node.js Amazon Alexa Vim Visual Studio Code Unity React Redux Lodash Next.js Tailwind CSS A-Frame Amazon DynamoDB MongoDB SQLite Sentry Jest Coveralls Cypress Storybook Blender Adobe XD Adobe Illustrator Adobe Photoshop Adobe After Effects Adobe Premiere Pro
-
+<br>
 🐱 Links to my page
 GitHub Homepage Twitter YouTube Twitch
 npm Stack Overflow Qiita Docker Steam origin Pixiv Facebook Instagram Keybase LinkedIn niconico
-   
+   <br>
 <br>
 ![Status](https://github-readme-stats.vercel.app/api?username=SafarovInomjon&show_icons=true&theme=radical)
 <br>

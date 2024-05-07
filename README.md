@@ -17,5 +17,14 @@ Here are some ideas to get you started:
 <br>
 
 
+## Connect with me
+
+[<img align="left" alt="BoredTweak | Email" width="150px" height="20px" src="https://img.shields.io/badge/BoredTweak%20%7C%20Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />][email]
+</br>
+
+## Languages and Tools
+
+[email]: inomjon:gdksgjfjffhgjghf@gmail.com
+[Teligram]: https://www.ananimus_00.com/in/alex-elia/
 
 

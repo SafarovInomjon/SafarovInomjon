@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 ![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=SafarovInomjon&layout=compact) 
 <br>
  ![Status](https://img.shields.io/badge/SafarovInomjon-181717?style=flat-square&logo=SafarovInomjon&logoColor=black)
+ <br>
  This is my anonymous account
 <br>
 <br>

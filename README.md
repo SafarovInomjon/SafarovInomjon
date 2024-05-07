@@ -8,26 +8,18 @@ Here are some ideas to get you started:
    📫 How to contact me my telegram page ananimus_00
    <br>
 <br>
-![Status](https://github-readme-stats.vercel.app/api?username=SafarovInomjon&show_icons=true&theme=radical) ![Status](https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif) 
+![Status](https://github-readme-stats.vercel.app/api?username=SafarovInomjon&show_icons=true&theme=radical)
+<br>
+![Status](https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif) 
 <br>
 ![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=SafarovInomjon&hide_progress=true)
 <br>
 ![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=SafarovInomjon&layout=compact) 
 <br>
- ![Status](https://img.https://catherineasquithgallery.com/uploads/posts/2021-02/1612906786_126-p-krasnii-kiber-fon-174.png.io/badge/SafarovInomjon-181717?style=flat-square&logo=SafarovInomjon&logoColor=black)
- <br>
- This is my anonymous account
-<br>
 <br>
 
-## Connect with me
-
-[<img align="left" alt="BoredTweak | Email" width="150px" height="20px" src="https://img.shields.io/badge/BoredTweak%20%7C%20Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />][email]
-</br>
-
-## Languages and Tools
-
-[email]: inomjon:gdksgjfjffhgjghf@gmail.com
+## Languages and Tools [email]: inomjon:gdksgjfjffhgjghf@gmail.com
 [Teligram]: https://www.ananimus_00.com/in/alex-elia/
+
 
 

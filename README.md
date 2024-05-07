@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-## Languages and Tools [email]: inomjon:gdksgjfjffhgjghf@gmail.com
+## Languages and Tools 
+<br>
 [Teligram]: https://www.ananimus_00.com/in/alex-elia/
-
+ <br>
+ [email]: inomjon:gdksgjfjffhgjghf@gmail.com
 
 

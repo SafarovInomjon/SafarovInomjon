@@ -22,12 +22,6 @@ Here are some ideas to get you started:
 </p>
 
 <br>
-<br>
-## Languages and Tools 
-<br>
-![Teligram](https://www.ananimus_00.com/in/alex-elia/)
- <br>
- ![email](inomjon:gdksgjfjffhgjghf@gmail.com)
 
 ## My pepastore
 ![Statua](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg)

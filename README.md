@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 * 💬 Ask me what you don't know
 * 📫 How to contact me on my Telegram page
    <br>
-<br>
 ![Status](https://github-readme-stats.vercel.app/api?username=SafarovInomjon&show_icons=true&theme=radical)
 <br>
 <p align="left">

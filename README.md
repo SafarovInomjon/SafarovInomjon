@@ -2,9 +2,6 @@
 <h1 align="center">
   <img src="https://github.com/SafarovInomjon/SafarovInomjon/blob/main/name.svg" />
 </h1>
-
-   <br>
-   <p align="center">
           ### Welcome to my profile 👋
 Here are some ideas to get you started:
 <br>
@@ -13,6 +10,8 @@ Here are some ideas to get you started:
 * 👯 I want to partner with Google
 * 💬 Ask me what you don't know
 * 📫 How to contact me on my Telegram page
+   <br>
+   <p align="center">
      <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif">
      </p>
 <br>

@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 <br>
 ![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=SafarovInomjon&hide_progress=true)
 <br>
+<p align="right">
 ![Status](https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif) 
+</p>
 <br>
 <br>
 

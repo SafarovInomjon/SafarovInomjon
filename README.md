@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 <br>
 ![Status](https://github-readme-stats.vercel.app/api?username=SafarovInomjon&show_icons=true&theme=radical)
 <br>
-![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=SafarovInomjon&layout=compact) 
-<br>
-![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=SafarovInomjon&hide_progress=true)
-<br>
 
-<p align="right">
+<p align="center">
   <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafarovInomjon&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafarovInomjon&hide_progress=true">
 </p>
 
 <br>

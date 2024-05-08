@@ -15,19 +15,19 @@ Here are some ideas to get you started:
 <br>
 ![Status](https://github-readme-stats.vercel.app/api?username=SafarovInomjon&show_icons=true&theme=radical)
 <br>
-![Status](https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif) 
+![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=SafarovInomjon&layout=compact) 
 <br>
 ![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=SafarovInomjon&hide_progress=true)
 <br>
-![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=SafarovInomjon&layout=compact) 
+![Status](https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif) 
 <br>
 <br>
 
 ## Languages and Tools 
 <br>
-[Teligram]: https://www.ananimus_00.com/in/alex-elia/
+![Teligram](https://www.ananimus_00.com/in/alex-elia/)
  <br>
- [email]: inomjon:gdksgjfjffhgjghf@gmail.com
+ ![email](inomjon:gdksgjfjffhgjghf@gmail.com)
 
 ## My pepastore
 ![Statua](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg)

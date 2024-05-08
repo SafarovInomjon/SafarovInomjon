@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 * 📫 How to contact me on my Telegram page
 <br>
    
-   <p align="left">
+   <p align="center">
      <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif">
      </p>
      
-<p align="center">
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=SafarovInomjon&show_icons=true&theme=radical">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafarovInomjon&layout=compact" height="450px" width="450px">
 </p>

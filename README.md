@@ -19,14 +19,13 @@ Here are some ideas to get you started:
 <br>
 ![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=SafarovInomjon&hide_progress=true)
 <br>
+
 <p align="right">
-  
-![Status](https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif)
-
+  <img href="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif">
 </p>
-<br>
-<br>
 
+<br>
+<br>
 ## Languages and Tools 
 <br>
 ![Teligram](https://www.ananimus_00.com/in/alex-elia/)

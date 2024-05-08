@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 * 📫 How to contact me on my Telegram page
 <br>
    
-   <p align="right">
+   <p align="center">
      <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif">
      </p>
 <br>

@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 * 💬 Ask me what you don't know
 * 📫 How to contact me on my Telegram page
    <br>
+   <p algin="right">
      <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif">
+     </p>
 <br>
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=SafarovInomjon&show_icons=true&theme=radical">

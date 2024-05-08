@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br>
 
 <p align="right">
-  <img href="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif">
+  <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif">
 </p>
 
 <br>

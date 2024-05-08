@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 * 💬 Ask me what you don't know
 * 📫 How to contact me on my Telegram page
    <br>
-![Status](https://github-readme-stats.vercel.app/api?username=SafarovInomjon&show_icons=true&theme=radical)
+     <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif">
 <br>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif">
+    <img src="https://github-readme-stats.vercel.app/api?username=SafarovInomjon&show_icons=true&theme=radical">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafarovInomjon&layout=compact">
 </p>
 

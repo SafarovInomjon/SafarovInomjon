@@ -3,7 +3,7 @@
   <img src="https://github.com/SafarovInomjon/SafarovInomjon/blob/main/name.svg" />
 </h1>
 
-          ### Welcome to my profile 👋
+### Welcome to my profile 👋
 Here are some ideas to get you started:
 <br>
 * I am currently working on the DotNet programming language

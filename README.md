@@ -17,9 +17,9 @@ Here are some ideas to get you started:
      <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif">
      </p>
 <br>
-<p align="left">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=SafarovInomjon&show_icons=true&theme=radical">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafarovInomjon&layout=compact" height="300px" width="300px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafarovInomjon&layout=compact" height="600px" width="600px">
 </p>
 
 <br>

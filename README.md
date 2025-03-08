@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://github.com/SafarovInomjon/SafarovInomjon/blob/main/name.svg" />
+  <img src="https://github.com/SafarovInomjon/Inomjon/blob/main/name.svg" />
 </h1>
 
 ### Welcome to my profile 👋

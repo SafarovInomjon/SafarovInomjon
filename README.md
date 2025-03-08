@@ -1,7 +1,7 @@
-
 <h1 align="center">
   <img src="https://github.com/SafarovInomjon/Inomjon/blob/main/name.svg" />
 </h1>
+
 
 ### Welcome to my profile 👋
 Here are some ideas to get you started:
